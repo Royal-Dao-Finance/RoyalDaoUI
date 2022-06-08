@@ -710,3 +710,24 @@
   clip-path: circle()
 }
 
+.tokendispng {
+  margin: 10px;
+  height: 325px;
+  width: 450px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+.tokentaxpng {
+  margin: 10px;
+  height: 325px;
+  width: 450px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 30px;
+}
